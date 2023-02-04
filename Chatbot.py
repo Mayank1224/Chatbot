@@ -29,7 +29,7 @@ def send():
         txt.insert(END, "\n" + "Bot => That's great!")
 
     elif(e.get() == "who made you"):
-        txt.insert(END, "\n" + "Bot => I was made by Mayank, Dharmender and Kunal")
+        txt.insert(END, "\n" + "Bot => I was made by Mayank")
 
     elif(e.get() == "what are you doing"):
         txt.insert(END, "\n" + "Bot => I am here to help you")
